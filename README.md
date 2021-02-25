@@ -1,4 +1,2 @@
-# Lab8
-
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+# CSE110_Lab8
+Jared Zhang A15889667
